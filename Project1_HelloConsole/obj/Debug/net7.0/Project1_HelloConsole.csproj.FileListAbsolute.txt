@@ -1,0 +1,15 @@
+C:\Users\yachi\Desktop\GeekBrains\C#\Lec1\Project1_HelloConsole\bin\Debug\net7.0\Project1_HelloConsole.exe
+C:\Users\yachi\Desktop\GeekBrains\C#\Lec1\Project1_HelloConsole\bin\Debug\net7.0\Project1_HelloConsole.deps.json
+C:\Users\yachi\Desktop\GeekBrains\C#\Lec1\Project1_HelloConsole\bin\Debug\net7.0\Project1_HelloConsole.runtimeconfig.json
+C:\Users\yachi\Desktop\GeekBrains\C#\Lec1\Project1_HelloConsole\bin\Debug\net7.0\Project1_HelloConsole.dll
+C:\Users\yachi\Desktop\GeekBrains\C#\Lec1\Project1_HelloConsole\bin\Debug\net7.0\Project1_HelloConsole.pdb
+C:\Users\yachi\Desktop\GeekBrains\C#\Lec1\Project1_HelloConsole\obj\Debug\net7.0\Project1_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\yachi\Desktop\GeekBrains\C#\Lec1\Project1_HelloConsole\obj\Debug\net7.0\Project1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yachi\Desktop\GeekBrains\C#\Lec1\Project1_HelloConsole\obj\Debug\net7.0\Project1_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\yachi\Desktop\GeekBrains\C#\Lec1\Project1_HelloConsole\obj\Debug\net7.0\Project1_HelloConsole.AssemblyInfo.cs
+C:\Users\yachi\Desktop\GeekBrains\C#\Lec1\Project1_HelloConsole\obj\Debug\net7.0\Project1_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\yachi\Desktop\GeekBrains\C#\Lec1\Project1_HelloConsole\obj\Debug\net7.0\Project1_HelloConsole.dll
+C:\Users\yachi\Desktop\GeekBrains\C#\Lec1\Project1_HelloConsole\obj\Debug\net7.0\refint\Project1_HelloConsole.dll
+C:\Users\yachi\Desktop\GeekBrains\C#\Lec1\Project1_HelloConsole\obj\Debug\net7.0\Project1_HelloConsole.pdb
+C:\Users\yachi\Desktop\GeekBrains\C#\Lec1\Project1_HelloConsole\obj\Debug\net7.0\Project1_HelloConsole.genruntimeconfig.cache
+C:\Users\yachi\Desktop\GeekBrains\C#\Lec1\Project1_HelloConsole\obj\Debug\net7.0\ref\Project1_HelloConsole.dll
